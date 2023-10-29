@@ -1,0 +1,26 @@
+TrialID,Title,PrincipalInvestigator,Location,StartDate,EndDate,NumPatients,ReviewRating,VisitDays,Description,SideEffects
+CT001,Phase I Drug Trial,Dr. Hans Müller,Zurich,2023-01-15,2023-07-15,100,4.5,"Monday, Wednesday, Friday",This is a phase I clinical trial to test the safety and dosage of a new drug,"Headache, Nausea, Fatigue"
+CT002,Phase II Vaccine Study,Dr. Anna Fischer,Lausanne,2023-03-10,2023-09-10,150,5,"Tuesday, Thursday, Saturday",This study aims to evaluate the efficacy of a new vaccine,"Sore Arm, Fever, Swelling"
+CT003,Phase III Cancer Treatment,Dr. Marco Rossi,Geneva,2023-02-20,2023-08-20,200,3.5,"Monday, Thursday, Saturday",Phase III trial for testing the effectiveness of a novel cancer treatment,"Nausea, Hair Loss, Fatigue"
+CT004,Pediatric Study,Dr. Emma Weber,Basel,2023-04-05,2023-10-05,80,4.2,"Tuesday, Wednesday, Friday",This study focuses on the safety and dosage of medications in pediatric patients,"Vomiting, Diarrhea, Rash"
+CT005,Behavioral Intervention,Dr. Sophie Lüthi,Lucerne,2023-06-01,2023-12-01,120,4.9,"Monday, Wednesday, Friday",Investigating the impact of a behavioral intervention on patient outcomes,None
+CT006,Phase IV Long-Term Study,Dr. Lars Vogel,St. Gallen,2023-05-12,2023-11-12,300,3.8,"Tuesday, Thursday, Saturday",A long-term phase IV study to assess the safety and efficacy of a medication,"Fatigue, Joint Pain, Dizziness"
+CT007,Neurological Trial,Dr. Lea Meier,Bern,2023-07-20,2024-01-20,90,5,"Monday, Wednesday, Saturday",This trial investigates treatments for neurological conditions,"Headache, Nausea, Insomnia"
+CT008,Cardiovascular Study,Dr. Nico Zimmer,Interlaken,2023-08-08,2024-02-08,140,3.7,"Tuesday, Thursday, Friday",Studying the impact of a new drug on cardiovascular health,"Dizziness, Palpitations, Chest Pain"
+CT009,Dermatology Research,Dr. Lara Kaufmann,Appenzell,2023-09-25,2024-03-25,75,3.3,"Wednesday, Friday, Saturday",Researching dermatological conditions and potential treatments,"Skin Irritation, Redness, Itching"
+CT010,Psychological Study,Dr. David Schmid,Zug,2023-10-15,2024-04-15,110,4.5,"Monday, Thursday, Saturday",Exploring the effects of psychological interventions on mental health,None
+CT011,Phase I Oncology Trial,Dr. Sarah Koch,Bern,2023-11-30,2024-05-30,130,2.8,"Tuesday, Wednesday, Friday",Phase I trial for testing new oncology treatments,"Nausea, Vomiting, Fatigue"
+CT012,Respiratory Study,Dr. Michael Berger,Zermatt,2024-01-05,2024-07-05,95,4.1,"Monday, Thursday, Saturday",Studying respiratory conditions and potential therapies,"Cough, Shortness of Breath, Chest Pain"
+CT013,Gastrointestinal Research,Dr. Laura Jäger,Lugano,2024-02-10,2024-08-10,115,4.6,"Tuesday, Wednesday, Saturday",Investigating gastrointestinal health and related treatments,"Stomach Cramps, Diarrhea, Nausea"
+CT014,Phase II Diabetes Trial,Dr. Stefan Huber,Chur,2024-03-20,2024-09-20,160,5,"Wednesday, Thursday, Friday",Phase II trial for testing diabetes treatments,"Hypoglycemia, Fatigue, Nausea"
+CT015,Orthopedic Study,Dr. Lisa Herzog,Gstaad,2024-04-25,2024-10-25,70,3.4,"Tuesday, Wednesday, Friday",Studying orthopedic conditions and potential interventions,"Joint Pain, Swelling, Stiffness"
+CT016,Immunology Research,Dr. Thomas Rehli,Engelberg,2024-06-01,2024-12-01,85,4.7,"Monday, Thursday, Saturday",Researching the immune system and related treatments,None
+CT017,Ophthalmology Trial,Dr. Melanie Hauser,Ascona,2024-07-15,2025-01-15,50,5,"Tuesday, Wednesday, Friday",Investigating treatments for ophthalmological conditions,"Eye Irritation, Blurred Vision, Dryness"
+CT018,Phase I Endocrinology,Dr. Jan Keller,Zug,2024-08-20,2025-02-20,125,4.2,"Monday, Thursday, Saturday",Phase I trial for testing endocrinology treatments,"Nausea, Headache, Fatigue"
+CT019,Neuroscience Study,Dr. Nora Fischer,Locarno,2024-09-10,2025-03-10,105,5,"Wednesday, Thursday, Saturday",Exploring the complexities of the human brain,"Headache, Nausea, Dizziness"
+CT020,Women's Health Trial,Dr. Mia Weber,Montreux,2024-10-05,2025-04-05,70,3.6,"Tuesday, Thursday, Friday",Studying women's health and related medical interventions,"Nausea, Fatigue, Mood Changes"
+CT021,Crohn's Disease Study,Dr. Sofia Müller,Lucerne,2024-01-10,2024-07-10,90,4,"Monday, Wednesday, Saturday",Evaluating treatments for Crohn's disease,"Nausea, Abdominal Pain, Diarrhea"
+CT022,Crohn's Disease Trial,Dr. Felix Weber,Zurich,2024-02-15,2024-08-15,75,3.8,"Tuesday, Thursday, Friday",Phase II trial for Crohn's disease therapies,"Headache, Vomiting, Fatigue"
+CT023,Crohn's Disease Research,Dr. Emma Fischer,Lausanne,2024-03-20,2024-09-20,110,4.5,"Monday, Wednesday, Saturday",Researching Crohn's disease and possible treatments,"Abdominal Pain, Diarrhea, Nausea"
+CT024,Crohn's Disease Intervention,Dr. Luca Rossi,Geneva,2024-04-25,2024-10-25,80,3.3,"Tuesday, Thursday, Saturday",Investigating interventions for Crohn's disease,"Fatigue, Weight Loss, Joint Pain"
+CT025,Crohn's Disease Phase I,Dr. Lea Müller,Bern,2024-05-30,2024-11-30,100,4.2,"Wednesday, Friday, Saturday",Phase I trial for Crohn's disease treatments,"Nausea, Abdominal Pain, Diarrhea"
